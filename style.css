@@ -56,14 +56,14 @@ h1{
     padding-bottom: 100px;
 }
 #full-stack-develop{
-    border:7px solid;
+    border-left:7px solid;
     border-image:linear-gradient(purple,tomato);
-    border-image-slice: 0 0 0 1;
+    border-image-slice:1;
 }
 #baby-web-develop{
-    border:7px solid;
+    border-left:7px solid;
     border-image:linear-gradient(blue,cyan);
-    border-image-slice: 0 0 0 5; 
+    border-image-slice:  1; 
 }
 footer{
     text-align: center;
